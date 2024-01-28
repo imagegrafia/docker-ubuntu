@@ -19,3 +19,5 @@ sudo apt-get update
 #Step-2
 ====================
   sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+# docker permission & user group config
+https://dev.to/kenji_goh/got-permission-denied-while-trying-to-connect-to-the-docker-daemon-socket-3dne
